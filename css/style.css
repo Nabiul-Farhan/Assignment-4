@@ -40,7 +40,7 @@ body {
 	margin-bottom: 50px;
 	background:hsla(0, 0%, 100%, 0.80);
 }
-/*.header .menue:hover {
+/*.header .menu:hover {
 	background: rgba(5, 5, 5, 0.6);
 }*/
  .header .container img {
@@ -50,20 +50,20 @@ body {
  	margin-bottom: 6px ;
 
  }
-.menue {
+.menu {
  	width: 100%;
  	float: left;
  	text-align: right;
  	/*padding-left: px;*/
 
  }
- .header .menue li {
+ .header .menu li {
  		list-style: none;
  		text-decoration: none;
  		display: inline-block;
  		margin: 25px 0px;
  }
-  .header .menue li a {
+  .header .menu li a {
   	text-decoration: none;
   	font-family: poppins;
   	font-size: 15px;
